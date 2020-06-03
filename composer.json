@@ -1,0 +1,19 @@
+{
+    "name": "jubull/alibabasdk",
+    "description": "阿里巴巴开发平台接口SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jubull",
+            "email": "1373602636@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "com\\": "src/com"
+        }
+    }
+}
