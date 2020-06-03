@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "jubull\\Alibabasdk\\": "src"
+             "com\\": "src/com"
         }
     }
 }
