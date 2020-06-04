@@ -1,5 +1,5 @@
 {
-  "name": "jubull/alibabasdk",
+  "name": "alibabasdk",
   "type": "library",
   "description": "阿里巴巴开放平台SDK 提供API 类目、产品、旺铺、物流、交易、会员、搜索、服务市场、代销、数据营销、联盟业务、大企业采购、零售通、ERP通用推品、3D互动资源中心等所有权限的接口功能",
   "keywords": [
